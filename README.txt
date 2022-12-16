@@ -10,4 +10,4 @@ number7.java did step 7
 number8.java did step 8
 
 number7 and number8's algorithm feels off.
-I also made a small Test.txt file to test me code in the beginning. 
+I also made a small Test.txt file to test my code in the beginning. 
